@@ -15,4 +15,4 @@ const totalPayAmmount = oneKgOrangePrice + oneKgApplePrice;
 
 const returnMoney = iHaveMoney - totalPayAmmount;
 
-console.log(returnMoney);
+console.log(returnMoney);   // 600

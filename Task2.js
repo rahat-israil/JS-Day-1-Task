@@ -12,4 +12,4 @@ const totalMark = 75.25 + 65 + 80 + 35.45 + 99.50 ;
 
 const averageMarks = totalMark / 5;
 
-console.log(averageMarks.toFixed(2));
+console.log(averageMarks.toFixed(2));    // 71.04
